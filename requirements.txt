@@ -1,0 +1,8 @@
+pacotes utilizados:
+pandas
+matplotlib
+seaborn
+scipy
+sklearn
+sklearn.model_selection
+xgboost
